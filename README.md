@@ -3,6 +3,7 @@
 Reading and posting an article/video about programming for a year.
 
 
+- 2021-10-21: [Async/Await with easy to understand examples.](https://dev.to/nehal_mahida/asyncawait-with-easy-to-understand-examples-2221)
 - 2021-10-20: [ Alexa Skill con Node.js](https://xavidop.me/alexa/2020-05-18-alexa-nodejs/)
 - 2021-10-19: [6 Tips That Will Fix Your Interview Anxiety](https://dev.to/jburroughs/6-tips-that-will-fix-your-interview-anxiety-2md1)
 - 2021-10-18: [How Twitch Live Streaming and Chat works through HTTP](https://www.youtube.com/watch?v=X7AQ_f-ki3s)
