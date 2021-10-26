@@ -3,6 +3,7 @@
 Reading and posting an article/video about programming for a year.
 
 
+- 2021-10-25: [How Kubernetes Can Reduce Development and Deployment Costs](https://www.datasciencecentral.com/profiles/blogs/how-kubernetes-can-reduce-development-and-deployment-costs)
 - 2021-10-24: [Run Your Python Code as Fast as C](https://towardsdatascience.com/run-your-python-code-as-fast-as-c-4ae49935a826)
 - 2021-10-23: [The New WebTransport Protocol](https://www.youtube.com/watch?v=jvdg-jOYK5E)
 - 2021-10-22: [WebSockets: A Conceptual Overview ](https://dev.to/sahuvikramp/websockets-a-conceptual-overview-41m)
