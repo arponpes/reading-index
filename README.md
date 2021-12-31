@@ -2,6 +2,7 @@
 
 Articles I've found interesting
 
+- [Difference Between NFD, NFC, NFKD, and NFKC](https://towardsdatascience.com/difference-between-nfd-nfc-nfkd-and-nfkc-explained-with-python-code-e2631f96ae6c)
 - [~/Faking Twitter Unfurling to phish you.](https://harrydenley.com/faking-twitter-unfurling/)
 - [Signatures: The foundations of modern end-to-end encryption](https://kerkour.com/signatures-modern-end-to-end-encryption/)
 - [Amazon’s Manifesto For Externalization ](https://nordicapis.com/the-bezos-api-mandate-amazons-manifesto-for-externalization/)
