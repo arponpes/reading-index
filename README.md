@@ -2,6 +2,7 @@
 
 Articles I've found interesting
 
+- [What’s Wrong With Measuring Developer Performance (+ 10 Best Metrics)](https://dev.to/actitime/whats-wrong-with-measuring-developer-performance-10-best-metrics-5620)
 - [Algorithms vs Heuristics](https://hackernity.com/algorithms-vs-heuristics#heading-what-is-an-heuristic)
 - [Difference Between NFD, NFC, NFKD, and NFKC](https://towardsdatascience.com/difference-between-nfd-nfc-nfkd-and-nfkc-explained-with-python-code-e2631f96ae6c)
 - [~/Faking Twitter Unfurling to phish you.](https://harrydenley.com/faking-twitter-unfurling/)
