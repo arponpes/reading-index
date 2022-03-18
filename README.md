@@ -2,6 +2,7 @@
 
 Articles I've found interesting
 
+- [It’s always Microservices - The Spotify Outage Explained (March 8 2022)]https://www.youtube.com/watch?v=JcKEnhNQHYY
 - [Avoiding the Top 10 NGINX Configuration Mistakes](https://www.nginx.com/blog/avoiding-top-10-nginx-configuration-mistakes/)
 - [Everything you need to know about monorepos](https://monorepo.tools/)
 - [What’s Wrong With Measuring Developer Performance (+ 10 Best Metrics)](https://dev.to/actitime/whats-wrong-with-measuring-developer-performance-10-best-metrics-5620)
