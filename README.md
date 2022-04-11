@@ -2,6 +2,8 @@
 
 Articles I've found interesting
 
+- [Python’s super() considered super!](https://rhettinger.wordpress.com/2011/05/26/super-considered-super/)
+- [What I learned from making a DNS client in Rust](https://blog.adamchalmers.com/making-a-dns-client/)
 - [Firefox UI UX history](https://github.com/black7375/Firefox-UI-Fix/wiki/%5BArticle%5D-0.-Firefox-UI-UX-history)
 - [It’s always Microservices - The Spotify Outage Explained (March 8 2022)](https://www.youtube.com/watch?v=JcKEnhNQHYY)
 - [Avoiding the Top 10 NGINX Configuration Mistakes](https://www.nginx.com/blog/avoiding-top-10-nginx-configuration-mistakes/)
