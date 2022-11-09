@@ -2,6 +2,7 @@
 
 Articles I've found interesting
 
+- [Docker networking is CRAZY!! (you NEED to learn it)](https://www.youtube.com/watch?v=bKFMS5C4CG0)
 - [Explaining Code using ASCII Art](https://blog.regehr.org/archives/1653)
 - [Next-Level Concurrent Programming In Python With Asyncio](https://www.youtube.com/watch?v=GpqAQxH1Afc)
 - [20 Python Interview Questions To Challenge Your Knowledge](https://towardsdatascience.com/20-python-interview-questions-to-challenge-your-knowledge-cddc842297c5)
