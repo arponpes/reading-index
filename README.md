@@ -2,6 +2,7 @@
 
 Articles I've found interesting
 
+- [The Six Dumbest Ideas in Computer Security](http://ranum.com/security/computer_security/editorials/dumb/index.html)
 - [Examples of floating point problems](https://jvns.ca/blog/2023/01/13/examples-of-floating-point-problems/)
 - [Docker networking is CRAZY!! (you NEED to learn it)](https://www.youtube.com/watch?v=bKFMS5C4CG0)
 - [Explaining Code using ASCII Art](https://blog.regehr.org/archives/1653)
